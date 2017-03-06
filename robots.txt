@@ -1,0 +1,17 @@
+Sitemap: http://mjj137993394.github.io/sitemap.xml
+Sitemap: http://mjj137993394.github.io/baidusitemap.xml
+
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/
+
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: http://www.arao.me/sitemap.xml
+Sitemap: http://www.arao.me/baidusitemap.xml
