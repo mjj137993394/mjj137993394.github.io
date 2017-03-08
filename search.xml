@@ -33,7 +33,7 @@
     <entry>
       <title><![CDATA[css学习归纳总结（二）]]></title>
       <url>%2F2017%2F02%2F13%2FCSS_summary2%2F</url>
-      <content type="text"></content>
+      <content type="text"><![CDATA[链接伪类1234a:link &#123;color: black&#125; /* 未访问的链接 */a:visited &#123;color: blue&#125; /* 已访问的链接 */a:hover &#123;color: red&#125; /* 当有鼠标悬停在链接上 */a:active &#123;color: purple&#125; /* 被选择的链接 */ 为了产生预期的效果，在CSS定义中，a:hover必须位于a:link和a:visited之后！a:active必须位于a:hover之后！！ :after和:before伪元素”伪元素“，顾名思义。它创建了一个虚假的元素，并插入到目标元素内容之前或之后。伪元素如果没有设置content属性，伪元素是无用的。 插入的元素默认情况下是内联元素，如果你要为其设置宽高等属性，你需要将他定义为块级元素123456#element:before&#123; content : &quot;&quot;; display : &apos;block&apos; height : 1000px; width : 1000px;&#125; 注入的内容将是有关联的目标元素的子元素，但它会被置于这个元素的任何内容的“前”或“后”。 web标准的构成]]></content>
     </entry>
 
     
