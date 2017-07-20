@@ -81,7 +81,7 @@ body ul li:hover {
   left: 0;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
-  background-image: url("../img/2623a.jpg");
+  background-image: url("2623a.jpg");
   background-repeat: no-repeat;
   background-size: 400% 300%;
 }
